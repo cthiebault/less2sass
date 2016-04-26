@@ -8,6 +8,8 @@ Convert `.less` to `.scss` Sass file.
 
 ## How to use
 
+[Install Docker](https://docs.docker.com/engine/installation/) then run
+
 ```
 docker run --rm -v `pwd`:/work cthiebault/less2sass style.less -o style.scss
 ```
