@@ -1,6 +1,6 @@
 # Docker for less2sass
 
-Simple Docker image for [less2sass](https://github.com/brauliobo/less2sass)
+Simple Docker image for [less2sass](https://github.com/brauliobo/less2sass). Convert `.less` to `.scss` Sass file.
 
 ## How to use
 
