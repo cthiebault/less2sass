@@ -15,7 +15,11 @@ docker run --rm -v `pwd`:/work cthiebault/less2sass style.less -o style.scss
 ```
 alias less2sass='docker run --rm -v `pwd`:/work cthiebault/less2sass'
 ```
-* Run `less2sass`
+
+* Run 
+```
+less2sass --help
+```
 
 ### Options
 
