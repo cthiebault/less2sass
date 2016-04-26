@@ -20,8 +20,8 @@ alias less2sass='docker run --rm -v `pwd`:/work cthiebault/less2sass'
 
 See [https://github.com/brauliobo/less2sass](https://github.com/brauliobo/less2sass):
 
-* `-o`, `--output` - Name of outputfile
-* `-d`, `--delete` - Delete inputfile after outputfile is created
+* `-o`, `--output` - Name of output file
+* `-d`, `--delete` - Delete input file after output file is created
 * `-p`, `--print` - Output sass results to the terminal
 * `-v`, `--version` -	Print less2sass version
 * `-h`, `--help` - Print help
